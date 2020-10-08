@@ -1,0 +1,7 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("stats", "predict", "sd","fitted", "frequency", "lm", "ts")
+importFrom("utils", "head", "tail")
+import(nnfor)
+import(MSGARCH)
+import(forecast)
+

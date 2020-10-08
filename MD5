@@ -1,0 +1,12 @@
+afc0e4476dff60071019857d242061e8 *DESCRIPTION
+bca1eb8e8624a1d8529e48649f176a28 *NAMESPACE
+b865038603b51e923aef9136ef5f6f0f *R/fcastelm.R
+35985a6e0dab404999d5f17786119045 *R/msgarchelm_BG.R
+33cf692ee56991a52faf5764911bec1b *R/msgarchelm_NG.R
+438e6fdab3d01cea71ee0008a44e14e8 *R/msgarchelm_OLS.R
+f82fdda3dfdf1792e7e99e88a24b1e16 *data/ReturnSeries_data.RData
+0d36217cfeea8577477e49d9e6261f49 *man/ReturnSeries_data.Rd
+9f11020a075ce8906ecbaca47757e5d5 *man/fcastelm.Rd
+3856bbba363fb89eb874d0bc61c2d336 *man/msgarchelm_BG.Rd
+0844f2f29304f53a5c488f0bc25b03ec *man/msgarchelm_NG.Rd
+45927af103a4b2e74d9042ae7c93fd02 *man/msgarchelm_OLS.Rd
